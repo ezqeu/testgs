@@ -1,3 +1,4 @@
+// ver youtube.com/watch?v=VPI27L_fQC4&list=PLRmEk9smitaVGAAhgU0Pdc2sEs7yxDrEk&index=1&ab_channel=Get__itDone%21
 var customerForm = document.getElementById("customerForm");
 var firstName = document.getElementById("firstName");
 var lastName = document.getElementById("lastName");
